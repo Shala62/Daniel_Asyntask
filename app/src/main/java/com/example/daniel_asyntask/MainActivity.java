@@ -16,9 +16,9 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
 
-    EditText etUser, etPass;
-    Button btn1;
-    ProgressBar progressBar;
+    private EditText etUser, etPass;
+    private Button btn1;
+    private ProgressBar progressBar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
