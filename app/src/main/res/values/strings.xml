@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Daniel_Asyntask</string>
+
+    <string name="txtLogin">Iniciar Sesión</string>
+    <string name="etUsuario">Nombre Usuario</string>
+    <string name="etPassword">Password</string>
+    <string name="btnIngresar">Ingresar</string>
+
+    <string name="txtBienvenido">Bienvenido</string>
+
+</resources>
